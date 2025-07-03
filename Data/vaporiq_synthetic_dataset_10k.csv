@@ -1,0 +1,2 @@
+age,gender,income,monthly_vape_spend,willingness_to_subscribe,liked_flavors,disliked_flavors,nicotine_strength,churn_risk,cluster
+25,Male,50000,40,1,Mint,Tobacco,6,0.2,0

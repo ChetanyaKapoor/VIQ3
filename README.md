@@ -1,1 +1,1 @@
-# VIQ3
+Galaxy themed dashboard with structured sequential visualisations.
